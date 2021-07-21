@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import requests
 
-CITY = 729114
-API_KEY = "bb62461c8c7e74cb3ae36bf4b29a34f1"
+CITY = YOUR_CITY
+API_KEY = "YOUR_TOKEN"
 UNITS = "Metric"
 UNIT_KEY = "C"
 
