@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Returns a weather with a corresponding emoji in the terminal from openweathermap
+# Returns a weather report with a corresponding emoji in the terminal from openweathermap
 import requests
 
 CITY = YOUR_CITY_NUMBER
